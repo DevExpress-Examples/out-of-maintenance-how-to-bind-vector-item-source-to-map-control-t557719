@@ -126,11 +126,8 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Core, version=18.1">
-      <Name>DevExpress.Core</Name>
-    </SDKReference>
-    <SDKReference Include="DevExpress.Visualization, Version=18.1">
-      <Name>DevExpress.Visualization</Name>
+    <SDKReference Include="DevExpress.Uwp, version=18.2">
+      <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
   <ItemGroup>

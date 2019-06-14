@@ -20,9 +20,9 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Map:MapControl ZoomLevel="6">
-            <Map:MapControl.CenterPoint>
+            <Map:MapControl.MapCenterPoint>
                 <Map:GeoPoint Latitude="-35" Longitude="145"/>
-            </Map:MapControl.CenterPoint>
+            </Map:MapControl.MapCenterPoint>
             <Map:ImageTilesLayer>
                 <Map:ImageTilesLayer.DataProvider>
                     <Map:BingMapDataProvider BingKey="Your Bing Key"/>
